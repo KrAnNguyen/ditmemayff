@@ -14,6 +14,7 @@ Get it [here](https://github.com/EdgeIY/infiniteyield/wiki)
 ### Developer: Moon
 ### Developer: Zwolf
 ### Developer: Toon
+### Modified : Hoang Nhat
 
 
 ## Usage
